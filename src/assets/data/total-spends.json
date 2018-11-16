@@ -1,0 +1,842 @@
+[
+    {
+      "date": "05/11/2018",
+      "agent_id": 1,
+      "store": "A",
+      "amount": "13,2"
+    },
+    {
+      "date": "05/11/2018",
+      "agent_id": 2,
+      "store": "A",
+      "amount": "25,74"
+    },
+    {
+      "date": "05/11/2018",
+      "agent_id": 3,
+      "store": "A",
+      "amount": "54,73"
+    },
+    {
+      "date": "05/11/2018",
+      "agent_id": 4,
+      "store": "B",
+      "amount": "21,68"
+    },
+    {
+      "date": "05/11/2018",
+      "agent_id": 5,
+      "store": "B",
+      "amount": "50,94"
+    },
+    {
+      "date": "05/11/2018",
+      "agent_id": 6,
+      "store": "C",
+      "amount": "34,94"
+    },
+    {
+      "date": "05/11/2018",
+      "agent_id": 7,
+      "store": "B",
+      "amount": "60,32"
+    },
+    {
+      "date": "05/11/2018",
+      "agent_id": 8,
+      "store": "C",
+      "amount": "47,15"
+    },
+    {
+      "date": "05/11/2018",
+      "agent_id": 9,
+      "store": "A",
+      "amount": "83,38"
+    },
+    {
+      "date": "05/11/2018",
+      "agent_id": 10,
+      "store": "A",
+      "amount": "8,79"
+    },
+    {
+      "date": "05/11/2018",
+      "agent_id": 11,
+      "store": "B",
+      "amount": "31,69"
+    },
+    {
+      "date": "05/11/2018",
+      "agent_id": 12,
+      "store": "B",
+      "amount": "19,18"
+    },
+    {
+      "date": "05/11/2018",
+      "agent_id": 13,
+      "store": "C",
+      "amount": "93,78"
+    },
+    {
+      "date": "05/11/2018",
+      "agent_id": 14,
+      "store": "A",
+      "amount": "74,28"
+    },
+    {
+      "date": "05/11/2018",
+      "agent_id": 15,
+      "store": "A",
+      "amount": "99,55"
+    },
+    {
+      "date": "05/11/2018",
+      "agent_id": 16,
+      "store": "A",
+      "amount": "23,02"
+    },
+    {
+      "date": "05/11/2018",
+      "agent_id": 17,
+      "store": "A",
+      "amount": "51,02"
+    },
+    {
+      "date": "05/11/2018",
+      "agent_id": 18,
+      "store": "A",
+      "amount": "40,34"
+    },
+    {
+      "date": "05/11/2018",
+      "agent_id": 19,
+      "store": "B",
+      "amount": "37,29"
+    },
+    {
+      "date": "05/11/2018",
+      "agent_id": 20,
+      "store": "A",
+      "amount": "29,92"
+    },
+    {
+      "date": "06/11/2018",
+      "agent_id": 1,
+      "store": "A",
+      "amount": "37,40"
+    },
+    {
+      "date": "06/11/2018",
+      "agent_id": 2,
+      "store": "B",
+      "amount": "1,12"
+    },
+    {
+      "date": "06/11/2018",
+      "agent_id": 3,
+      "store": "B",
+      "amount": "65,58"
+    },
+    {
+      "date": "06/11/2018",
+      "agent_id": 4,
+      "store": "B",
+      "amount": "61,54"
+    },
+    {
+      "date": "06/11/2018",
+      "agent_id": 5,
+      "store": "A",
+      "amount": "38,28"
+    },
+    {
+      "date": "06/11/2018",
+      "agent_id": 6,
+      "store": "B",
+      "amount": "6,22"
+    },
+    {
+      "date": "06/11/2018",
+      "agent_id": 7,
+      "store": "C",
+      "amount": "41,85"
+    },
+    {
+      "date": "06/11/2018",
+      "agent_id": 8,
+      "store": "A",
+      "amount": "43,86"
+    },
+    {
+      "date": "06/11/2018",
+      "agent_id": 9,
+      "store": "A",
+      "amount": "55,13"
+    },
+    {
+      "date": "06/11/2018",
+      "agent_id": 10,
+      "store": "B",
+      "amount": "43,93"
+    },
+    {
+      "date": "06/11/2018",
+      "agent_id": 11,
+      "store": "B",
+      "amount": "7,78"
+    },
+    {
+      "date": "06/11/2018",
+      "agent_id": 12,
+      "store": "C",
+      "amount": "4,61"
+    },
+    {
+      "date": "06/11/2018",
+      "agent_id": 13,
+      "store": "A",
+      "amount": "56,39"
+    },
+    {
+      "date": "06/11/2018",
+      "agent_id": 14,
+      "store": "A",
+      "amount": "45,55"
+    },
+    {
+      "date": "06/11/2018",
+      "agent_id": 15,
+      "store": "A",
+      "amount": "96,57"
+    },
+    {
+      "date": "06/11/2018",
+      "agent_id": 16,
+      "store": "A",
+      "amount": "65,38"
+    },
+    {
+      "date": "06/11/2018",
+      "agent_id": 17,
+      "store": "A",
+      "amount": "54,78"
+    },
+    {
+      "date": "06/11/2018",
+      "agent_id": 18,
+      "store": "B",
+      "amount": "25,79"
+    },
+    {
+      "date": "06/11/2018",
+      "agent_id": 19,
+      "store": "A",
+      "amount": "92,12"
+    },
+    {
+      "date": "06/11/2018",
+      "agent_id": 20,
+      "store": "A",
+      "amount": "18,45"
+    },
+    {
+      "date": "07/11/2018",
+      "agent_id": 1,
+      "store": "B",
+      "amount": "32,69"
+    },
+    {
+      "date": "07/11/2018",
+      "agent_id": 2,
+      "store": "C",
+      "amount": "16,64"
+    },
+    {
+      "date": "07/11/2018",
+      "agent_id": 3,
+      "store": "A",
+      "amount": "45,00"
+    },
+    {
+      "date": "07/11/2018",
+      "agent_id": 4,
+      "store": "A",
+      "amount": "80,14"
+    },
+    {
+      "date": "07/11/2018",
+      "agent_id": 5,
+      "store": "B",
+      "amount": "69,31"
+    },
+    {
+      "date": "07/11/2018",
+      "agent_id": 6,
+      "store": "B",
+      "amount": "86,89"
+    },
+    {
+      "date": "07/11/2018",
+      "agent_id": 7,
+      "store": "C",
+      "amount": "73,22"
+    },
+    {
+      "date": "07/11/2018",
+      "agent_id": 8,
+      "store": "A",
+      "amount": "39,09"
+    },
+    {
+      "date": "07/11/2018",
+      "agent_id": 9,
+      "store": "A",
+      "amount": "66,41"
+    },
+    {
+      "date": "07/11/2018",
+      "agent_id": 10,
+      "store": "A",
+      "amount": "4,06"
+    },
+    {
+      "date": "07/11/2018",
+      "agent_id": 11,
+      "store": "A",
+      "amount": "82,12"
+    },
+    {
+      "date": "07/11/2018",
+      "agent_id": 12,
+      "store": "A",
+      "amount": "14,82"
+    },
+    {
+      "date": "07/11/2018",
+      "agent_id": 13,
+      "store": "B",
+      "amount": "3,06"
+    },
+    {
+      "date": "07/11/2018",
+      "agent_id": 14,
+      "store": "A",
+      "amount": "68,95"
+    },
+    {
+      "date": "07/11/2018",
+      "agent_id": 15,
+      "store": "A",
+      "amount": "85,11"
+    },
+    {
+      "date": "07/11/2018",
+      "agent_id": 16,
+      "store": "A",
+      "amount": "42,92"
+    },
+    {
+      "date": "07/11/2018",
+      "agent_id": 17,
+      "store": "A",
+      "amount": "32,75"
+    },
+    {
+      "date": "07/11/2018",
+      "agent_id": 18,
+      "store": "A",
+      "amount": "17,82"
+    },
+    {
+      "date": "07/11/2018",
+      "agent_id": 19,
+      "store": "B",
+      "amount": "20,20"
+    },
+    {
+      "date": "07/11/2018",
+      "agent_id": 20,
+      "store": "A",
+      "amount": "11,11"
+    },
+    {
+      "date": "08/11/2018",
+      "agent_id": 1,
+      "store": "A",
+      "amount": "99,74"
+    },
+    {
+      "date": "08/11/2018",
+      "agent_id": 2,
+      "store": "B",
+      "amount": "36,74"
+    },
+    {
+      "date": "08/11/2018",
+      "agent_id": 3,
+      "store": "C",
+      "amount": "32,13"
+    },
+    {
+      "date": "08/11/2018",
+      "agent_id": 4,
+      "store": "A",
+      "amount": "55,11"
+    },
+    {
+      "date": "08/11/2018",
+      "agent_id": 5,
+      "store": "A",
+      "amount": "35,43"
+    },
+    {
+      "date": "08/11/2018",
+      "agent_id": 6,
+      "store": "B",
+      "amount": "33,42"
+    },
+    {
+      "date": "08/11/2018",
+      "agent_id": 7,
+      "store": "B",
+      "amount": "43,17"
+    },
+    {
+      "date": "08/11/2018",
+      "agent_id": 8,
+      "store": "A",
+      "amount": "33,58"
+    },
+    {
+      "date": "08/11/2018",
+      "agent_id": 9,
+      "store": "A",
+      "amount": "45,65"
+    },
+    {
+      "date": "08/11/2018",
+      "agent_id": 10,
+      "store": "B",
+      "amount": "75,99"
+    },
+    {
+      "date": "08/11/2018",
+      "agent_id": 11,
+      "store": "B",
+      "amount": "13,64"
+    },
+    {
+      "date": "08/11/2018",
+      "agent_id": 12,
+      "store": "C",
+      "amount": "21,37"
+    },
+    {
+      "date": "08/11/2018",
+      "agent_id": 13,
+      "store": "A",
+      "amount": "78,40"
+    },
+    {
+      "date": "08/11/2018",
+      "agent_id": 14,
+      "store": "A",
+      "amount": "79,46"
+    },
+    {
+      "date": "08/11/2018",
+      "agent_id": 15,
+      "store": "A",
+      "amount": "58,25"
+    },
+    {
+      "date": "08/11/2018",
+      "agent_id": 16,
+      "store": "A",
+      "amount": "99,96"
+    },
+    {
+      "date": "08/11/2018",
+      "agent_id": 17,
+      "store": "A",
+      "amount": "81,51"
+    },
+    {
+      "date": "08/11/2018",
+      "agent_id": 18,
+      "store": "B",
+      "amount": "43,90"
+    },
+    {
+      "date": "08/11/2018",
+      "agent_id": 19,
+      "store": "A",
+      "amount": "51,79"
+    },
+    {
+      "date": "08/11/2018",
+      "agent_id": 20,
+      "store": "A",
+      "amount": "29,44"
+    },
+    {
+      "date": "09/11/2018",
+      "agent_id": 1,
+      "store": "A",
+      "amount": "61,69"
+    },
+    {
+      "date": "09/11/2018",
+      "agent_id": 2,
+      "store": "A",
+      "amount": "60,81"
+    },
+    {
+      "date": "09/11/2018",
+      "agent_id": 3,
+      "store": "A",
+      "amount": "17,85"
+    },
+    {
+      "date": "09/11/2018",
+      "agent_id": 4,
+      "store": "B",
+      "amount": "59,20"
+    },
+    {
+      "date": "09/11/2018",
+      "agent_id": 5,
+      "store": "A",
+      "amount": "41,84"
+    },
+    {
+      "date": "09/11/2018",
+      "agent_id": 6,
+      "store": "A",
+      "amount": "77,02"
+    },
+    {
+      "date": "09/11/2018",
+      "agent_id": 7,
+      "store": "A",
+      "amount": "23,66"
+    },
+    {
+      "date": "09/11/2018",
+      "agent_id": 8,
+      "store": "A",
+      "amount": "46,03"
+    },
+    {
+      "date": "09/11/2018",
+      "agent_id": 9,
+      "store": "B",
+      "amount": "12,37"
+    },
+    {
+      "date": "09/11/2018",
+      "agent_id": 10,
+      "store": "A",
+      "amount": "9,79"
+    },
+    {
+      "date": "09/11/2018",
+      "agent_id": 11,
+      "store": "B",
+      "amount": "55,28"
+    },
+    {
+      "date": "09/11/2018",
+      "agent_id": 12,
+      "store": "B",
+      "amount": "40,93"
+    },
+    {
+      "date": "09/11/2018",
+      "agent_id": 13,
+      "store": "C",
+      "amount": "55,19"
+    },
+    {
+      "date": "09/11/2018",
+      "agent_id": 14,
+      "store": "B",
+      "amount": "21,21"
+    },
+    {
+      "date": "09/11/2018",
+      "agent_id": 15,
+      "store": "C",
+      "amount": "53,88"
+    },
+    {
+      "date": "09/11/2018",
+      "agent_id": 16,
+      "store": "A",
+      "amount": "21,62"
+    },
+    {
+      "date": "09/11/2018",
+      "agent_id": 17,
+      "store": "A",
+      "amount": "2,09"
+    },
+    {
+      "date": "09/11/2018",
+      "agent_id": 18,
+      "store": "B",
+      "amount": "81,52"
+    },
+    {
+      "date": "09/11/2018",
+      "agent_id": 19,
+      "store": "B",
+      "amount": "76,73"
+    },
+    {
+      "date": "09/11/2018",
+      "agent_id": 20,
+      "store": "B",
+      "amount": "81,86"
+    },
+    {
+      "date": "10/11/2018",
+      "agent_id": 1,
+      "store": "C",
+      "amount": "51,15"
+    },
+    {
+      "date": "10/11/2018",
+      "agent_id": 2,
+      "store": "B",
+      "amount": "66,16"
+    },
+    {
+      "date": "10/11/2018",
+      "agent_id": 3,
+      "store": "C",
+      "amount": "81,94"
+    },
+    {
+      "date": "10/11/2018",
+      "agent_id": 4,
+      "store": "A",
+      "amount": "58,13"
+    },
+    {
+      "date": "10/11/2018",
+      "agent_id": 5,
+      "store": "A",
+      "amount": "46,54"
+    },
+    {
+      "date": "10/11/2018",
+      "agent_id": 6,
+      "store": "B",
+      "amount": "5,12"
+    },
+    {
+      "date": "10/11/2018",
+      "agent_id": 7,
+      "store": "C",
+      "amount": "75,70"
+    },
+    {
+      "date": "10/11/2018",
+      "agent_id": 8,
+      "store": "B",
+      "amount": "3,68"
+    },
+    {
+      "date": "10/11/2018",
+      "agent_id": 9,
+      "store": "C",
+      "amount": "11,81"
+    },
+    {
+      "date": "10/11/2018",
+      "agent_id": 10,
+      "store": "A",
+      "amount": "44,27"
+    },
+    {
+      "date": "10/11/2018",
+      "agent_id": 11,
+      "store": "A",
+      "amount": "29,31"
+    },
+    {
+      "date": "10/11/2018",
+      "agent_id": 12,
+      "store": "B",
+      "amount": "28,48"
+    },
+    {
+      "date": "10/11/2018",
+      "agent_id": 13,
+      "store": "B",
+      "amount": "98,27"
+    },
+    {
+      "date": "10/11/2018",
+      "agent_id": 14,
+      "store": "B",
+      "amount": "83,45"
+    },
+    {
+      "date": "10/11/2018",
+      "agent_id": 15,
+      "store": "C",
+      "amount": "24,75"
+    },
+    {
+      "date": "10/11/2018",
+      "agent_id": 16,
+      "store": "B",
+      "amount": "89,56"
+    },
+    {
+      "date": "10/11/2018",
+      "agent_id": 17,
+      "store": "C",
+      "amount": "52,81"
+    },
+    {
+      "date": "10/11/2018",
+      "agent_id": 18,
+      "store": "A",
+      "amount": "63,71"
+    },
+    {
+      "date": "10/11/2018",
+      "agent_id": 19,
+      "store": "A",
+      "amount": "53,48"
+    },
+    {
+      "date": "10/11/2018",
+      "agent_id": 20,
+      "store": "B",
+      "amount": "17,15"
+    },
+    {
+      "date": "11/11/2018",
+      "agent_id": 1,
+      "store": "A",
+      "amount": "46,55"
+    },
+    {
+      "date": "11/11/2018",
+      "agent_id": 2,
+      "store": "A",
+      "amount": "63,45"
+    },
+    {
+      "date": "11/11/2018",
+      "agent_id": 3,
+      "store": "B",
+      "amount": "26,43"
+    },
+    {
+      "date": "11/11/2018",
+      "agent_id": 4,
+      "store": "C",
+      "amount": "88,14"
+    },
+    {
+      "date": "11/11/2018",
+      "agent_id": 5,
+      "store": "A",
+      "amount": "17,47"
+    },
+    {
+      "date": "11/11/2018",
+      "agent_id": 6,
+      "store": "A",
+      "amount": "53,58"
+    },
+    {
+      "date": "11/11/2018",
+      "agent_id": 7,
+      "store": "B",
+      "amount": "51,97"
+    },
+    {
+      "date": "11/11/2018",
+      "agent_id": 8,
+      "store": "B",
+      "amount": "27,31"
+    },
+    {
+      "date": "11/11/2018",
+      "agent_id": 9,
+      "store": "A",
+      "amount": "23,93"
+    },
+    {
+      "date": "11/11/2018",
+      "agent_id": 10,
+      "store": "A",
+      "amount": "77,23"
+    },
+    {
+      "date": "11/11/2018",
+      "agent_id": 11,
+      "store": "B",
+      "amount": "21,18"
+    },
+    {
+      "date": "11/11/2018",
+      "agent_id": 12,
+      "store": "B",
+      "amount": "9,94"
+    },
+    {
+      "date": "11/11/2018",
+      "agent_id": 13,
+      "store": "C",
+      "amount": "14,76"
+    },
+    {
+      "date": "11/11/2018",
+      "agent_id": 14,
+      "store": "A",
+      "amount": "69,80"
+    },
+    {
+      "date": "11/11/2018",
+      "agent_id": 15,
+      "store": "A",
+      "amount": "5,37"
+    },
+    {
+      "date": "11/11/2018",
+      "agent_id": 16,
+      "store": "B",
+      "amount": "16,40"
+    },
+    {
+      "date": "11/11/2018",
+      "agent_id": 17,
+      "store": "B",
+      "amount": "34,10"
+    },
+    {
+      "date": "11/11/2018",
+      "agent_id": 18,
+      "store": "C",
+      "amount": "42,45"
+    },
+    {
+      "date": "11/11/2018",
+      "agent_id": 19,
+      "store": "B",
+      "amount": "80,14"
+    },
+    {
+      "date": "11/11/2018",
+      "agent_id": 20,
+      "store": "C",
+      "amount": "37,28"
+    }
+  ]

@@ -1,0 +1,182 @@
+[
+    {
+      "agent_id": 1,
+      "gender": "M",
+      "age": 17,
+      "location": "London",
+      "spend_A": "92,10",
+      "spend_B": "70,83",
+      "spend_C": "78,96"
+    },
+    {
+      "agent_id": 2,
+      "gender": "M",
+      "age": 18,
+      "location": "Reading",
+      "spend_A": "1,72",
+      "spend_B": "69,28",
+      "spend_C": "6,78"
+    },
+    {
+      "agent_id": 3,
+      "gender": "M",
+      "age": 54,
+      "location": "Brighton",
+      "spend_A": "41,73",
+      "spend_B": "51,52",
+      "spend_C": "36,29"
+    },
+    {
+      "agent_id": 4,
+      "gender": "M",
+      "age": 34,
+      "location": "London",
+      "spend_A": "28,16",
+      "spend_B": "70,15",
+      "spend_C": "5,11"
+    },
+    {
+      "agent_id": 5,
+      "gender": "F",
+      "age": 23,
+      "location": "London",
+      "spend_A": "20,34",
+      "spend_B": "62,76",
+      "spend_C": "36,99"
+    },
+    {
+      "agent_id": 6,
+      "gender": "F",
+      "age": 42,
+      "location": "London",
+      "spend_A": "23,97",
+      "spend_B": "39,79",
+      "spend_C": "53,82"
+    },
+    {
+      "agent_id": 7,
+      "gender": "F",
+      "age": 19,
+      "location": "London",
+      "spend_A": "25,37",
+      "spend_B": "51,90",
+      "spend_C": "32,03"
+    },
+    {
+      "agent_id": 8,
+      "gender": "F",
+      "age": 32,
+      "location": "London",
+      "spend_A": "56,15",
+      "spend_B": "85,17",
+      "spend_C": "83,36"
+    },
+    {
+      "agent_id": 9,
+      "gender": "F",
+      "age": 29,
+      "location": "London",
+      "spend_A": "79,95",
+      "spend_B": "9,81",
+      "spend_C": "64,54"
+    },
+    {
+      "agent_id": 10,
+      "gender": "M",
+      "age": 28,
+      "location": "Brighton",
+      "spend_A": "25,86",
+      "spend_B": "51,79",
+      "spend_C": "91,90"
+    },
+    {
+      "agent_id": 11,
+      "gender": "M",
+      "age": 44,
+      "location": "London",
+      "spend_A": "44,17",
+      "spend_B": "81,90",
+      "spend_C": "95,43"
+    },
+    {
+      "agent_id": 12,
+      "gender": "F",
+      "age": 51,
+      "location": "Brighton",
+      "spend_A": "54,41",
+      "spend_B": "97,70",
+      "spend_C": "17,37"
+    },
+    {
+      "agent_id": 13,
+      "gender": "F",
+      "age": 58,
+      "location": "London",
+      "spend_A": "21,56",
+      "spend_B": "20,07",
+      "spend_C": "15,02"
+    },
+    {
+      "agent_id": 14,
+      "gender": "F",
+      "age": 55,
+      "location": "London",
+      "spend_A": "88,41",
+      "spend_B": "69,83",
+      "spend_C": "85,73"
+    },
+    {
+      "agent_id": 15,
+      "gender": "F",
+      "age": 41,
+      "location": "Reading",
+      "spend_A": "68,06",
+      "spend_B": "23,87",
+      "spend_C": "48,00"
+    },
+    {
+      "agent_id": 16,
+      "gender": "F",
+      "age": 30,
+      "location": "Brighton",
+      "spend_A": "2,88",
+      "spend_B": "97,41",
+      "spend_C": "62,14"
+    },
+    {
+      "agent_id": 17,
+      "gender": "M",
+      "age": 35,
+      "location": "London",
+      "spend_A": "10,69",
+      "spend_B": "24,54",
+      "spend_C": "75,91"
+    },
+    {
+      "agent_id": 18,
+      "gender": "M",
+      "age": 57,
+      "location": "Reading",
+      "spend_A": "73,91",
+      "spend_B": "75,08",
+      "spend_C": "4,58"
+    },
+    {
+      "agent_id": 19,
+      "gender": "F",
+      "age": 52,
+      "location": "London",
+      "spend_A": "19,76",
+      "spend_B": "61,40",
+      "spend_C": "27,13"
+    },
+    {
+      "agent_id": 20,
+      "gender": "M",
+      "age": 53,
+      "location": "London",
+      "spend_A": "50,27",
+      "spend_B": "32,79",
+      "spend_C": "24,03"
+    }
+  ]
